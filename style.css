@@ -109,8 +109,7 @@ a:hover{
     border: 2px solid white;
     font-size: 40px;
     padding: 15px;
-    width: 90px;
-    margin-top: 10px;
+    margin-top: 20px;
     text-align: center;
     border-radius: 10px 25px 10px 25px;
     background-image: -webkit-linear-gradient(45deg, var(--primario) 50%, transparent 50%);
@@ -156,14 +155,12 @@ a:hover{
 }
 .ali{
     text-align: center;
-    margin-top: 20px;
     
 
 
 }
 .ali2{
     text-align: left;
-    margin-top: 20px;
     height:auto;
     width: auto;
     padding-top: 100px;
@@ -182,10 +179,8 @@ a:hover{
 .espacio{margin-top: 80px;}
 
 
-.cenb{text-align: center;
-align-items: center;
-align-self: center;
-align-self: center;
+.cenb{
+    margin-bottom: 30px;
 }
 
 .os{
