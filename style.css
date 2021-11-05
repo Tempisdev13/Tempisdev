@@ -11,6 +11,9 @@
     color: white;
 }
 
+.navbar{
+    background-color: var(--negro);
+}
 
 .navs,a{
     margin-left: 25px;
@@ -19,7 +22,8 @@
     text-decoration: none;
     text-transform: none;
     font-size: 18px;
-
+    
+    
 }
 a:hover{
     color: var(--primario);
@@ -129,12 +133,13 @@ a:hover{
 
   }
 .pa{
+    margin-top: 120px;
     padding-bottom: 40px;
 }
 .ps{margin-top: 35px;}
   .blanco{
       background: var(--blanco);
- 
+
   }
 
 .bit{
@@ -155,7 +160,6 @@ a:hover{
 }
 .ali{
     text-align: center;
-    
 
 
 }
@@ -171,7 +175,7 @@ a:hover{
 
 .ali3{
     text-align: left;
-    margin-top: 100px;
+    margin-top: 180px;
     margin-bottom: 40px;
     height: auto;
 }
